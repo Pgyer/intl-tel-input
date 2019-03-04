@@ -3,5 +3,15 @@
   "main": [
     "./build/js/intlTelInput.js",
     "./build/css/intlTelInput.css"
-  ]
+  ],
+  "ignore":[
+    "./examples",
+    "./grunt",
+    "./screenshots",
+    "./src"
+  ],
+  "repository":{
+      "type": "git",
+      "url": "https://github.com/Pgyer/intl-tel-input.git"
+  }
 }
